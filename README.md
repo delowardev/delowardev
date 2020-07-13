@@ -2,6 +2,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/delowardev) 
 [![HackerRank Profile](https://img.shields.io/badge/%20-HackerRank-black?color=14171A&labelColor=1ba94c&logo=hackerrank&logoColor=ffffff)](https://www.hackerrank.com/delowardev)
 [![Email Address](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:delowardev@gmail.com)
+[![Skype Address](https://img.shields.io/badge/%20-Skype-black?color=14171A&labelColor=00aff0&logo=skype&logoColor=fff)](skype:delowar6494@outlook.com?chat)
 
 ### Hi there 👋
 
