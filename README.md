@@ -3,7 +3,7 @@
 [![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=F7D900&logo=ello&logoColor=fff)](https://delowar.dev/cv)
 [![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/delowardev) 
 [![Email Address](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:delowardev@gmail.com)
-![](https://komarev.com/ghpvc/?username=delowardev&label=EYE)
+![](https://komarev.com/ghpvc/?username=delowardev&label=!)
 
 <!--
 **delowardev/delowardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
