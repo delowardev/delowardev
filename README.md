@@ -19,3 +19,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### WORK EXPERIENCE
+
+**Sender.net, Vilnius, Lithuania** - *⚡ Front-end Engineer* <br>
+`JUN 2020 - PRESENT (Full-Time)`
+<br>
+
+**JoomShaper, Dhaka, Bangladesh** — *⚡ Senior Front-end Developer* <br>
+`SEP 2019 - MAY 2020 (Full-Time)`
+<br>
+
+**JoomShaper, Dhaka, Bangladesh** — *⚡ Front-end Developer* <br>
+`AUG 2017 - AUG 2019 (Full-Time)`
+<br>
+
+**CrazyCafe, Dhaka, Bangladesh** — *⚡ Senior Web Developer* <br>
+`SEP 2016 - AUG 2017 (Full-Time)`
