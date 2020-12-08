@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 `AUG 2017 - JUL 2019 (Full-Time)`
 <br>
 
-**CrazyCafe, Dhaka, Bangladesh** — *⚡ Senior Web Developer* <br>
+**CrazyCafe, Dhaka, Bangladesh** — *⚡ Web Developer* <br>
 `SEP 2016 - AUG 2017 (Full-Time)`
