@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <br>
 
 **JoomShaper, Dhaka, Bangladesh** — *⚡ Senior Front-end Developer* <br>
-`SEP 2019 - MAY 2020 (Full-Time)`
+`AUG 2019 - MAY 2020 (Full-Time)`
 <br>
 
 **JoomShaper, Dhaka, Bangladesh** — *⚡ Front-end Developer* <br>
-`AUG 2017 - AUG 2019 (Full-Time)`
+`AUG 2017 - JUL 2019 (Full-Time)`
 <br>
 
 **CrazyCafe, Dhaka, Bangladesh** — *⚡ Senior Web Developer* <br>
