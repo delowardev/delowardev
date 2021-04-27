@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>Libraries & Others</td>
-        <td>React.js, Vue.js, Next.js, Webpack, Rollup, Vuex, Vue Router, GraphQL, jQuery, WebSocket, SVG Filters & Animations, SASS, and LESS</td>
+        <td>React.js, Vue.js, Svelte.js, Redux.js, Next.js, Webpack, Rollup, Vuex, GraphQL, jQuery, WebSocket, SVG Filters & Animations, SASS, and LESS</td>
     </tr>
     <tr>
         <td>Database</td>
