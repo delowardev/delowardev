@@ -1,7 +1,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Linkedin-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/delowar) 
-[![HackerRank Profile](https://img.shields.io/badge/%20-HackerRank-black?color=14171A&labelColor=1ba94c&logo=hackerrank&logoColor=ffffff)](https://www.hackerrank.com/delowardev)
-[![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=F7D900&logo=ello&logoColor=fff)](https://delowar.dev/cv)
+[![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=F7D900&logo=ello&logoColor=fff)](https://go.delowar.dev/cv)
 [![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/delowardev) 
+[![HackerRank Profile](https://img.shields.io/badge/%20-HackerRank-black?color=14171A&labelColor=1ba94c&logo=hackerrank&logoColor=ffffff)](https://www.hackerrank.com/delowardev)
 [![Email Address](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:delowardev@gmail.com)
 ![](https://komarev.com/ghpvc/?username=delowardev&label=!)
 
@@ -36,3 +36,31 @@ Here are some ideas to get you started:
 
 **CrazyCafe, Dhaka, Bangladesh** — *⚡ Web Developer* <br>
 `SEP 2016 - AUG 2017 (Full-Time)`
+
+### Technical Skills
+<table>
+    <tr>
+        <td>Languages</td>
+        <td>PHP, JavaScript, Python, and Dart</td>
+    </tr>
+    <tr>
+        <td>CMS & Frameworks</td>
+        <td>WordPress, Laravel, Bootstrap, Bulma, and Tailwind css</td>
+    </tr>
+    <tr>
+        <td>Libraries & Others</td>
+        <td>React.js, Vue.js, Next.js, Webpack, Rollup, Vuex, Vue Router, GraphQL, jQuery, WebSocket, SVG Filters & Animations, SASS, and LESS</td>
+    </tr>
+    <tr>
+        <td>Database</td>
+        <td>MySql, MongoDB, Firebase</td>
+    </tr>
+    <tr>
+        <td>Graphic Tools</td>
+        <td>Photoshop, Sketch, Figma, and Adobe XD</td>
+    </tr>
+    <tr>
+        <td>VCS</td>
+        <td>Git and SVN</td>
+    </tr>
+</table>
