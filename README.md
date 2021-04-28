@@ -9,6 +9,9 @@ Hi there, I'm **Delowar Hossain**
 
 ### Glad to see you here!
 
+As a software engineer, I have been working with different libraries and frameworks of JavaScript for last four years. As per my current job responsibilites, I spend most of my professional working hours with Vue.js and TypeScript.
+
+
 <!--
 **delowardev/delowardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
