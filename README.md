@@ -29,20 +29,20 @@ Here are some ideas to get you started:
 
 ### WORK EXPERIENCE
 
-**Sender.net, Vilnius, Lithuania** - Front-end Engineer <br>
-`JUN 2020 - PRESENT (Full-Time)`
+**Sender.net, Vilnius, Lithuania** — Front-end Engineer <br>
+`JUN 2020 - PRESENT`
 <br>
 
 **JoomShaper, Dhaka, Bangladesh** — Senior Front-end Developer <br>
-`AUG 2019 - MAY 2020 (Full-Time)`
+`AUG 2019 - MAY 2020`
 <br>
 
 **JoomShaper, Dhaka, Bangladesh** — Front-end Developer <br>
-`AUG 2017 - JUL 2019 (Full-Time)`
+`AUG 2017 - JUL 2019`
 <br>
 
 **CrazyCafe, Dhaka, Bangladesh** — Web Developer<br>
-`SEP 2016 - AUG 2017 (Full-Time)`
+`SEP 2016 - AUG 2017`
 
 ### Technical Skills
 <table>
