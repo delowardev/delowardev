@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### WORK EXPERIENCE
+### Work Experience
 
 **Sender.net, Vilnius, Lithuania** — Front-end Engineer <br>
 `JUN 2020 - PRESENT`
