@@ -9,7 +9,7 @@ Hi there, I'm **Delowar Hossain**
 
 ### Glad to see you here!
 
-As a software engineer, I have been working with different libraries and frameworks of JavaScript for last four years. As per my current job responsibilites, I spend most of my professional working hours with Vue.js, TypeScript, and React.js.
+As a software engineer, I have been working with different libraries and frameworks of JavaScript for the last four years. As per my current job responsibilities, I spend most of my professional working hours with Vue.js, TypeScript, and React.js. 
 
 
 <!--
