@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Work Experience
+## Work Experience
 
 **Sender.net, Vilnius, Lithuania** — Front-end Engineer <br>
 `JUN 2020 - PRESENT`
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 **CrazyCafe, Dhaka, Bangladesh** — Web Developer<br>
 `SEP 2016 - AUG 2017`
 
-### Technical Skills
+## Technical Skills
 <table>
     <tr>
         <td>Languages</td>
