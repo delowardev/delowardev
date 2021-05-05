@@ -44,6 +44,29 @@ Here are some ideas to get you started:
 **CrazyCafe, Dhaka, Bangladesh** — Web Developer<br>
 `SEP 2016 - AUG 2017`
 
+## Certifications
+
+**JavaScript (Intermediate) Certificate**<br>
+Issuing authority: HackerRank - 
+[See credential](https://www.hackerrank.com/certificates/c88458474f57)
+<br>
+
+**CSS Certificate**<br>
+Issuing authority: HackerRank - 
+[See credential](https://www.hackerrank.com/certificates/9ef7a6790f1f)
+<br>
+
+**Problem Solving Certificate**<br>
+Issuing authority: HackerRank - 
+[See credential](https://www.hackerrank.com/certificates/626e6bbc4aff)
+<br>
+
+**React.js Certificate**<br>
+Issuing authority: HackerRank - 
+[See credential](https://www.hackerrank.com/certificates/8129f6d34da0)
+<br>
+
+
 ## Technical Skills
 <table>
     <tr>
