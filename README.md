@@ -79,7 +79,7 @@ Issuing authority: HackerRank -
     </tr>
     <tr>
         <td>Front-end Development</td>
-        <td>React.js, Vue.js, Svelte.js, Redux.js, Next.js, Webpack, Rollup, Vuex, GraphQL, jQuery,  <br/> WebSocket, SVG Filters & Animations, Bootstrap, Bulma, Tailwind css, SASS, and LESS</td>
+        <td>React.js, Vue.js, Svelte.js, Redux.js, Next.js, Webpack, Rollup, Vuex, GraphQL, jQuery, WebSocket, <br/> SVG Filters & Animations, Bootstrap, Bulma, Tailwind css, SASS, and LESS</td>
     </tr>
     <tr>
         <td>Database</td>
