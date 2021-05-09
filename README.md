@@ -75,11 +75,11 @@ Issuing authority: HackerRank -
     </tr>
     <tr>
         <td>CMS & Frameworks</td>
-        <td>WordPress, Laravel, Bootstrap, Bulma, and Tailwind css</td>
+        <td>WordPress and Laravel</td>
     </tr>
     <tr>
-        <td>Libraries & Others</td>
-        <td>React.js, Vue.js, Svelte.js, Redux.js, Next.js, Webpack, Rollup, Vuex, GraphQL, jQuery,  <br/> WebSocket, SVG Filters & Animations, SASS, and LESS</td>
+        <td>Front-end Development</td>
+        <td>React.js, Vue.js, Svelte.js, Redux.js, Next.js, Webpack, Rollup, Vuex, GraphQL, jQuery,  <br/> WebSocket, SVG Filters & Animations, Bootstrap, Bulma, Tailwind css, SASS, and LESS</td>
     </tr>
     <tr>
         <td>Database</td>
