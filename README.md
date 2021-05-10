@@ -46,6 +46,11 @@ Here are some ideas to get you started:
 
 ## Certifications
 
+**JavaScript Algorithms and Data Structures**<br>
+Issuing authority: FreeCodeCamp - 
+[See credential](https://freecodecamp.org/certification/delowar/javascript-algorithms-and-data-structures)
+<br>
+
 **JavaScript (Intermediate) Certificate**<br>
 Issuing authority: HackerRank - 
 [See credential](https://www.hackerrank.com/certificates/c88458474f57)
@@ -64,11 +69,6 @@ Issuing authority: HackerRank -
 **React.js Certificate**<br>
 Issuing authority: HackerRank - 
 [See credential](https://www.hackerrank.com/certificates/8129f6d34da0)
-<br>
-
-**JavaScript Algorithms and Data Structures**<br>
-Issuing authority: FreeCodeCamp - 
-[See credential](https://freecodecamp.org/certification/delowar/javascript-algorithms-and-data-structures)
 <br>
 
 
