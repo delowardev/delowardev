@@ -66,6 +66,11 @@ Issuing authority: HackerRank -
 [See credential](https://www.hackerrank.com/certificates/8129f6d34da0)
 <br>
 
+**JavaScript Algorithms and Data Structures**<br>
+Issuing authority: FreeCodeCamp - 
+[See credential](https://freecodecamp.org/certification/delowar/javascript-algorithms-and-data-structures)
+<br>
+
 
 ## Technical Skills
 <table>
