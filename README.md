@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 
 ## Certifications
 
+**Certified ScrumMaster® (CSM)**
+By `Scrum Alliance` - 
+[See credential](https://www.scrumalliance.org/community/profile/dhossain4)
+
 **JavaScript Algorithms and Data Structures**<br>
 By `FreeCodeCamp` - 
 [See credential](https://freecodecamp.org/certification/delowar/javascript-algorithms-and-data-structures)
