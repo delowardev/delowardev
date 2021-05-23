@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## Certifications
 
-**Certified ScrumMaster® (CSM)**
+**Certified ScrumMaster® (CSM)**<br>
 By `Scrum Alliance` - 
 [See credential](https://www.scrumalliance.org/community/profile/dhossain4)
 
