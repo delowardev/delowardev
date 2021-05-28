@@ -7,9 +7,9 @@ Hi there, I'm **Delowar Hossain**
 [![Email Address](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:delowardev@gmail.com)
 ![](https://komarev.com/ghpvc/?username=delowardev&label=!)
 
-### Glad to see you here!
+### Front-end Developer | Certified ScrumMaster® (CSM®)
 
-As a software engineer, I have been working with different libraries and frameworks of JavaScript for the last four years. As per my current job responsibilities, I spend most of my professional working hours with Vue.js, TypeScript, and React.js. 
+Creative and self-starting front-end developer with four years of experience in building and maintaining responsive websites and interactive web applications. Proficient in HTML, CSS, JavaScript, PHP, and WordPress; plus modern javascript frameworks and libraries such as React, Redux, Vue, Vuex, and Svelte. Passionate about usability and possess working knowledge of Photoshop, Sketch, Figma, and Adobe XD.
 
 
 <!--
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## Certifications
 
-**Certified ScrumMaster® (CSM)**<br>
+**Certified ScrumMaster® (CSM®)**<br>
 By `Scrum Alliance` - 
 [See credential](https://bcert.me/psgygdyq)
 
