@@ -11,21 +11,7 @@ Hi there, I'm **Delowar Hossain**
 
 Creative and self-starting front-end developer with four years of experience in building and maintaining responsive websites and interactive web applications. Proficient in HTML, CSS, JavaScript, PHP, and WordPress; plus modern javascript frameworks and libraries such as React, Redux, Vue, Vuex, and Svelte. Passionate about usability and possess working knowledge of Photoshop, Sketch, Figma, and Adobe XD.
 
-
 <!--
-**delowardev/delowardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Work Experience
 
@@ -74,6 +60,8 @@ By `HackerRank` -
 By `HackerRank` - 
 [See credential](https://www.hackerrank.com/certificates/8129f6d34da0)
 <br>
+
+-->
 
 
 ## Technical Skills
