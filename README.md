@@ -80,12 +80,6 @@ By `HackerRank` -
 </table>
 
 
-### Links:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Linkedin-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/delowar)
-[![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=F7D900&logo=ello&logoColor=fff)](https://go.delowar.dev/cv)
-[![HackerRank Profile](https://img.shields.io/badge/%20-HackerRank-black?color=14171A&labelColor=1ba94c&logo=hackerrank&logoColor=ffffff)](https://www.hackerrank.com/delowardev)
-![](https://komarev.com/ghpvc/?username=delowardev&label=!)
-
 ### Weekly coding activity:
 
 <!--START_SECTION:waka-->
@@ -97,3 +91,10 @@ SCSS         1 hr 51 mins    ██▒░░░░░░░░░░░░░░
 Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
+
+
+### Links:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Linkedin-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/delowar)
+[![Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=F7D900&logo=ello&logoColor=fff)](https://go.delowar.dev/cv)
+[![HackerRank Profile](https://img.shields.io/badge/%20-HackerRank-black?color=14171A&labelColor=1ba94c&logo=hackerrank&logoColor=ffffff)](https://www.hackerrank.com/delowardev)
+![](https://komarev.com/ghpvc/?username=delowardev&label=!)
