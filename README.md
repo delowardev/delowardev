@@ -87,4 +87,11 @@ By `HackerRank` -
 ![](https://komarev.com/ghpvc/?username=delowardev&label=!)
 
 <!--START_SECTION:waka-->
+```text
+Vue.js       7 hrs 44 mins   █████████▓░░░░░░░░░░░░░░░   38.23 % 
+TypeScript   5 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
+JavaScript   4 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+SCSS         1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+```
 <!--END_SECTION:waka-->
