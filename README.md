@@ -84,11 +84,11 @@ By `HackerRank` -
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       18 hrs 36 mins  █████████████████▒░░░░░░░   68.85 % 
-JavaScript   3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-TypeScript   2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-SCSS         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Other        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Vue.js       19 hrs 11 mins  ███████████████████▒░░░░░   77.70 % 
+TypeScript   2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+SCSS         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Other        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 <!--END_SECTION:waka-->
 
