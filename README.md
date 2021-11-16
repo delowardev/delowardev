@@ -94,11 +94,11 @@ By `HackerRank` -
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   25 hrs 7 mins   ██████████████████▓░░░░░░   74.90 % 
-PHP          3 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Markdown     1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-TypeScript   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-JSON         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JavaScript   26 hrs 34 mins  ████████████████████░░░░░   80.65 % 
+PHP          1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+TypeScript   1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Markdown     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JSON         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 <!--END_SECTION:waka-->
 
