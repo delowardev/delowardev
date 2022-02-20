@@ -94,8 +94,6 @@ By `HackerRank` -
 
 <!--START_SECTION:waka-->
 ```text
-Total: 33 hrs 19 mins
-
 JavaScript   24 hrs 38 mins  ██████████████████▒░░░░░░   73.93 % 
 JSON         2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 SCSS         2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
