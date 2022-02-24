@@ -90,6 +90,8 @@ By `HackerRank` -
 [![HackerRank Profile](https://img.shields.io/badge/%20-HackerRank-black?color=14171A&labelColor=1ba94c&logo=hackerrank&logoColor=ffffff)](https://www.hackerrank.com/delowardev)
 ![](https://komarev.com/ghpvc/?username=delowardev&label=!)
 
+-->
+
 ### Weekly coding activity:
 
 <!--START_SECTION:waka-->
