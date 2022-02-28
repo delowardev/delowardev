@@ -95,12 +95,15 @@ By `HackerRank` -
 ### Weekly coding activity:
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   14 hrs 54 mins  ████████████████████▓░░░░   82.41 % 
-SCSS         1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-PHP          58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JavaScript       18 hrs 37 mins  █████████████████████▒░░░   85.07 %
+SCSS             1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+PHP              58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+JSON             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
+
 <!--END_SECTION:waka-->
 
