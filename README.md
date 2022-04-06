@@ -97,12 +97,10 @@ By `HackerRank` -
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       3 hrs 29 mins   ████████████████████████░   96.62 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-HTML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript       1 hr 3 mins     ████████████████████████░   96.44 %
+JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
