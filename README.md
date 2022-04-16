@@ -97,7 +97,8 @@ By `HackerRank` -
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   23 mins         ████████████████████████▒   97.14 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
