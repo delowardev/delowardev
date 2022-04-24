@@ -97,12 +97,12 @@ By `HackerRank` -
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       15 hrs 51 mins  █████████████████░░░░░░░░   68.18 %
-JavaScript       4 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Vue.js           1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JSON             52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-textmate         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Markdown         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+TypeScript       15 hrs 51 mins  ███████████████████░░░░░░   75.45 %
+JavaScript       2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Vue.js           1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+JSON             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+textmate         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Markdown         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
